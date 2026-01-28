@@ -13,5 +13,5 @@ a=b
 b[0] = "grape"
 print(a,b)
 
-#reference listenin (kendisi adresi)
+#reference listenin (kendi adresi)
 #value de kendisiyle
